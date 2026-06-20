@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego en la mirada
+
+This log tracks the cryptographic history and versioning for the song **Fuego en la mirada** (fuego-en-la-mirada).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T02:33:39.282179 | `v1` | `3a706f4bba5e548e7c0d7abeea07fe90d8f0aaa37abd8b71904d62dbf09d6a90` | `d6b5824cffcc4449f505f00108aa27e0ef0c1a43ad8491ddb481d602e62b0fc0` | `2026-06-21_fuego-en-la-mirada-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

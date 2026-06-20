@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-en-la-mirada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Fuego en la mirada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-la-mirada/) |
+| **Get License** | [Secure Licensing Rights for Fuego en la mirada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-la-mirada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3a706f4bba5e548e7c0d7abeea07fe90d8f0aaa37abd8b71904d62dbf09d6a90` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
